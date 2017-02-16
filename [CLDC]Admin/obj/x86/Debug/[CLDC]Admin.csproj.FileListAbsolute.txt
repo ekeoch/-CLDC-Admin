@@ -1,0 +1,21 @@
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\bin\Debug\[CLDC]Admin.exe
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\bin\Debug\[CLDC]Admin.pdb
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\_CLDC_Admin.Properties.Resources.resources
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.exe
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.pdb
+c:\users\darth_lord\documents\visual studio 2010\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\_CLDC_Admin.Form1.resources
+C:\Users\Emmanuel\Documents\SugarSync Shared Folders\chidiekeocha@gmail.com\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.exe
+C:\Users\Emmanuel\Documents\SugarSync Shared Folders\chidiekeocha@gmail.com\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.pdb
+C:\Users\Ekeocha\Desktop\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.exe
+C:\Users\Ekeocha\Desktop\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\bin\Debug\[CLDC]Admin.exe
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\bin\Debug\[CLDC]Admin.pdb
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.csprojResolveAssemblyReference.cache
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\_CLDC_Admin.Form1.resources
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\_CLDC_Admin.Properties.Resources.resources
+C:\Users\Ekeocha\Desktop\Code\Projects\Projects\[CLDC]Admin\[CLDC]Admin\obj\x86\Debug\[CLDC]Admin.csproj.GenerateResource.Cache

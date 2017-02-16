@@ -1,0 +1,4 @@
+[4/21/2016 2:40:07 PM] Connected Successfully!
+[4/21/2016 2:40:07 PM] Admin[169.254.114.171] has entered the Room
+[4/21/2016 2:40:52 PM] Sample message to all admins
+[4/21/2016 4:38:48 PM] Diconnected from Server at [169.254.65.17]
